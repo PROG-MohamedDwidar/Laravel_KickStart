@@ -2,7 +2,16 @@
 This project implements all basic laravel concepts  
 i did not focus on UI but i focused more on following laravel code conventions and best practices  
 it has no real life use but it will be improved later
-
+## concepts implemented  
+-Routing  
+-Controllers  
+-Requests  
+-Blade  
+-Migrations  
+-Eloquent ORM "data Factory,Database CRUD and Relationships"  
+-Validation  
+-Laravel Authentication using Breeze
+-File Uploads  
 
 
 
