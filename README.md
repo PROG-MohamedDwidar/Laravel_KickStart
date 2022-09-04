@@ -1,4 +1,4 @@
-This project implements basic all basic laravel concepts  
+This project implements all basic laravel concepts  
 i did not focus on UI but i focused more on following laravel code conventions and best practices
 
 
